@@ -1,3 +1,5 @@
+package Day1;
+
 public class Strings {
     public static void main(String[] args) {
         String stringOne="First";
@@ -11,7 +13,7 @@ public class Strings {
             System.out.println("Both strings are equal");
         }
         else{
-            System.out.println("Strings not matching");
+            System.out.println("Day1.Strings not matching");
         }
         StringBuilder stringOneReverse=new StringBuilder(stringOne);
         stringOneReverse.reverse();
