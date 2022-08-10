@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Arrays {
+public class Array {
     public static void main(String[] args) {
         int size=10;
         int a[]=new int[10];
